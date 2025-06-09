@@ -4,7 +4,7 @@ Sample repo to demonstrate bgit clone posthook in action
 ### To start
 
 ```bash
-cargo install --git https://github.com/Gyan172004/bgit.git
+cargo install --git https://github.com/rootCircle/bgit.git
 ```
 
 ### Usage
