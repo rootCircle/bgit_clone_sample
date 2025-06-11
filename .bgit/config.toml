@@ -1,0 +1,5 @@
+[rules.default]
+IsGitInstalledLocally = "Error"
+
+[workflow.default.is_sole_contributor]
+overrideCheckForAuthors = ["dev.frolics@gmail.com"]

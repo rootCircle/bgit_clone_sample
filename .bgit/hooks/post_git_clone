@@ -51,3 +51,4 @@ install_rust() {
 
 # Run the installation
 install_rust
+
