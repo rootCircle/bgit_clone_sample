@@ -14,6 +14,6 @@ Then run bgit in some folder:
 bgit
 ```
 
-It will prompt you to Initialze/Clone a Repository, click on Clone, and then enter repository link as `https://github.com:rootCircle/bgit_clone_sample` and let `bgit` autosetup rust for you using post_git_clone hook.
+It will prompt you to Initialze/Clone a Repository, click on Clone, and then enter repository link as `https://github.com/rootCircle/bgit_clone_sample` and let `bgit` autosetup rust for you using post_git_clone hook.
 
 
