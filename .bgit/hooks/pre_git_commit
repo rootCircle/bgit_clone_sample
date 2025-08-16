@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 echo "Running pre_git_commit hook"
-
+cargo check -q
